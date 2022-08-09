@@ -1,0 +1,1 @@
+gfortran src/hello.f90 -o build/hello
